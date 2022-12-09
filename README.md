@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tahereghorbanimoghaddam
 - 👀 I’m interested in learning,nature and music
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any case that will help me in progress
+- I’m currently learning matlab & signal processing;)
+- I’m looking to collaborate on any case that will help me in progress
 
 <!---
 Tahereghorbanimoghaddam/Tahereghorbanimoghaddam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
